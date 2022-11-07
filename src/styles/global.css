@@ -1,0 +1,199 @@
+h1 {
+    font-weight: 325;
+    font-size: 96px;
+    line-height: 120px;
+    letter-spacing: -1.5px;
+    color: #1c1c28;
+    font-style: normal;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    letter-spacing: -0.5px;
+    color: #1c1c28;
+    font-style: normal;
+}
+
+h3 {
+    font-weight: 325;
+    font-size: 48px;
+    line-height: 72px;
+    font-style: normal;
+}
+
+h4 {
+    font-weight: 325;
+    font-size: 34px;
+    line-height: 58px;
+    letter-spacing: 0.25px;
+    font-style: normal;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    font-style: normal;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    font-style: normal;
+}
+
+.sub-headline1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    text-transform: capitalize;
+}
+
+.sub-headline2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    text-transform: capitalize;
+}
+
+.sub-headline3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    text-transform: capitalize;
+}
+
+.sub-headline4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    text-transform: capitalize;
+}
+
+.body1 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    font-style: normal;
+    letter-spacing: 0.3px;
+}
+
+.body2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+}
+
+.body3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+}
+
+.small1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.3px;
+}
+
+.small2 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+}
+
+.small3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+}
+
+.small4 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 16px;
+    letter-spacing: 0.3px;
+}
+
+.button1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+
+.button2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+
+.button3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+}
+
+.caption1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.3px;
+}
+
+.caption2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+}
+
+.overline1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.overline2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,5 @@
+node_modules
+build
+.github
+.eslintrc.cjs
+astro.config.mjs
